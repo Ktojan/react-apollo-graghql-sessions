@@ -4,7 +4,10 @@
 
 ## Install and run
 
-Run `npm install` in each of folders: root, api and app.
-Once that's done, we're going to \api and run server: `npm start`
-Then enter to \app and run React frontend app: `npm start` and open http://localhost:1337/ (by default)
+- Run `npm install` in each of folders: root, api and app.
+- Once that's done, go to \api and run server: `npm start`
+- Then enter to \app and run React frontend app: `npm start` and open http://localhost:1337/ (by default)
 GraphQL server is now running at port 4000, so we can access it at localhost 4000/graphql. 
+
+
+![graph_1](https://github.com/user-attachments/assets/3b56fc5f-d887-4cad-be2b-d9f52bd06e50)
