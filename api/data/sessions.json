@@ -1,0 +1,746 @@
+{
+  "sessions": [
+    {
+      "id": "84473",
+      "title": "Intro to Quantum Debugging",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Dive into the basics of debugging quantum entangled code with surprising and humorous outcomes.",
+      "room": "Europa",
+      "speakers": [
+        {
+          "id": "2bda8276-b7b6-4653-a7c5-1bcc59d11a49",
+          "name": "Jean Ryan"
+        }
+      ]
+    },
+    {
+      "id": "79874",
+      "title": "HTML Intro and Pizza",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Get a tasty start with HTML by incorporating pizza-related examples and surprising elements.",
+      "room": "Jupiter",
+      "speakers": [
+        {
+          "id": "36a25c2a-4204-42f0-9ba8-d7b9c6f67226",
+          "name": "Bowie Graves"
+        }
+      ]
+    },
+    {
+      "id": "85595",
+      "title": "Medium-Terminator Machine Learning",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Learn how to train machine learning models with a medium-level approach that even a Terminator would appreciate.",
+      "room": "Earth",
+      "speakers": [
+        {
+          "id": "23ff4eb2-5c07-4548-85c7-e2cefe63c0cd",
+          "name": "Camryn Richardson"
+        }
+      ]
+    },
+    {
+      "id": "82049",
+      "title": "Advanced Array Acrobatics",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Challenge your coding skills with an advanced course on performing acrobatics with arrays.",
+      "room": "Mercury",
+      "speakers": [
+        {
+          "id": "a25e6534-f680-4487-83da-9f58329af3a9",
+          "name": "Willie Wells"
+        }
+      ]
+    },
+    {
+      "id": "85060",
+      "title": "Intro to Byte-sized Mysteries",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Explore the tiny yet fascinating world of bytes and how they hide mysterious secrets.",
+      "room": "Mars",
+      "speakers": [
+        {
+          "id": "b8f3c690-5950-4279-9ee7-9291d1439dd2",
+          "name": "Robin Garcia"
+        }
+      ]
+    },
+    {
+      "id": "78054",
+      "title": "Medium Complexity Cookie Cutter",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Craft medium-difficulty solutions with precision, just like using a cookie cutter in software design.",
+      "room": "Pluto",
+      "speakers": [
+        {
+          "id": "0c4f74c9-6be8-40d0-b588-674d3b783472",
+          "name": "Michele Jenkins"
+        }
+      ]
+    },
+    {
+      "id": "80342",
+      "title": "Advanced Firewall Juggling",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Juggle advanced firewall rules with finesse in this seminar dedicated to cybersecurity pros.",
+      "room": "Uranus",
+      "speakers": [
+        {
+          "id": "3b4b4bf9-547b-4961-a49e-f7028b0390cd",
+          "name": "Roland Terry"
+        }
+      ]
+    },
+    {
+      "id": "85250",
+      "title": "Intro to Cloud Catastrophes",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Witness how cloud services can humorously fail and learn methods to proactively manage issues.",
+      "room": "Venus",
+      "speakers": [
+        {
+          "id": "6e30db3e-1cec-441c-9c29-7813738255c1",
+          "name": "Kurt Anderson"
+        }
+      ]
+    },
+    {
+      "id": "80763",
+      "title": "Medium Docker Dinosaur Deployment",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Deploy applications with medium-skills in Docker, themed with playful dinosaur metaphors.",
+      "room": "Neptune",
+      "speakers": [
+        {
+          "id": "8a64a5ed-e5d8-4d27-911a-6798ab37b851",
+          "name": "Ocean Kelley"
+        }
+      ]
+    },
+    {
+      "id": "85148",
+      "title": "Advanced Blockchain Balloon Animals",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Create advanced blockchain structures with the whimsy of balloon animal artistry.",
+      "room": "Ganymede",
+      "speakers": [
+        {
+          "id": "87029c5c-0b50-4926-a57c-3af4b7dfe5a5",
+          "name": "Eduardo Terry"
+        }
+      ]
+    },
+    {
+      "id": "85293",
+      "title": "Intro to GIF Governance",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Oversee and manage GIF usage with playful oversight, providing an intro to digital media leadership.",
+      "room": "Io",
+      "speakers": [
+        {
+          "id": "fa9a25d7-fdc1-4e8a-b4da-16a766d59127",
+          "name": "Milan Silva"
+        }
+      ]
+    },
+    {
+      "id": "85264",
+      "title": "Medium Voltage Virtualization",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Energize your virtualization skills with medium-level techniques that light up your data center.",
+      "room": "Titan",
+      "speakers": [
+        {
+          "id": "8de6a283-f104-432b-ad08-f775a5fae6a4",
+          "name": "Sally Watts"
+        }
+      ]
+    },
+    {
+      "id": "85299",
+      "title": "Advanced Router Robotics",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "8:00",
+      "description": "Program routers with advanced robotic commands for peak networking performance.",
+      "room": "Callisto",
+      "speakers": [
+        {
+          "id": "3e903f94-c2bf-4543-aa77-9990467f4573",
+          "name": "Caroline Ward"
+        }
+      ]
+    },
+    {
+      "id": "79654",
+      "title": "Intro to Cyber Sleuthing Basics",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Become a cyber detective and learn the basics of solving digital mysteries.",
+      "room": "Neptune",
+      "speakers": [
+        {
+          "id": "3336b62f-c81b-4892-8247-d34043767210",
+          "name": "Perrie Dunn"
+        },
+        {
+          "id": "9849b607-154a-40f0-8b96-35f2d9f2b516",
+          "name": "Heather Mendoza"
+        }
+      ]
+    },
+    {
+      "id": "84216",
+      "title": "Medium Codec Cartography",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Map the territory of codecs and compression with medium-difficulty navigation techniques.",
+      "room": "Ganymede",
+      "speakers": [
+        {
+          "id": "f6873ff8-e7a8-40db-895b-118a33c069e0",
+          "name": "Craig Johnston"
+        }
+      ]
+    },
+    {
+      "id": "80749",
+      "title": "Advanced Neural Networking Galore",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Delve deep into complex and advanced neural networks with this interactive seminar.",
+      "room": "Venus",
+      "speakers": [
+        {
+          "id": "55118daf-09db-4e61-a5b6-c2661640c3d2",
+          "name": "Ashton Dunn"
+        }
+      ]
+    },
+    {
+      "id": "78175",
+      "title": "Intro to Syntax Sorcery",
+      "level": "Introductory and overview",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Conjure magical code from syntax basics and see the wizardry of programming unfold.",
+      "room": "Uranus",
+      "speakers": [
+        {
+          "id": "e8eb22dd-d167-4efa-ba0e-905c94b38f9b",
+          "name": "Constance Jimenez"
+        }
+      ]
+    },
+    {
+      "id": "80991",
+      "title": "Medium Level Logic Puzzles",
+      "level": "Medium",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Solve medium strength logic puzzles that challenge the mind and entertain.",
+      "room": "Mercury",
+      "speakers": [
+        {
+          "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+          "name": "Tracy Peterson"
+        }
+      ]
+    },
+    {
+      "id": "131951",
+      "title": "Advanced Quantum Threading",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "startsAt": "1:00",
+      "description": "Interweave code with advanced quantum threading techniques that push the boundaries of processing.",
+      "room": "Mars",
+      "speakers": [
+        {
+          "id": "e87c804d-b551-4614-8891-007f421a683f",
+          "name": "Ivan Garrett"
+        }
+      ]
+    },
+    {
+      "id": "82048",
+      "title": "Intro to Cookie-Cutter Programming",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Bake basic programs using simple templates and enjoy coding in a sweet introductory workshop.",
+      "room": "Sol",
+      "speakers": [
+        {
+          "id": "a25e6534-f680-4487-83da-9f58329af3a9",
+          "name": "Willie Wells"
+        }
+      ]
+    },
+    {
+      "id": "85213",
+      "title": "Medium LAN Party Protocols",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Host a medium-level LAN party with robust networking protocols and gaming-ready configurations.",
+      "room": "Mars",
+      "speakers": [
+        {
+          "id": "96051b9e-ae0d-47fe-95fc-83419f497ba2",
+          "name": "Suzanne Brown"
+        }
+      ]
+    },
+    {
+      "id": "84376",
+      "title": "Advanced JSON Jamboree",
+      "level": "Advanced",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Join the advanced jamboree of JSON parsing with techniques fit for data-driven pros.",
+      "room": "Europa",
+      "speakers": [
+        {
+          "id": "172a6669-38c5-46ec-b262-3290e8aa41e3",
+          "name": "Joan Jordan"
+        }
+      ]
+    },
+    {
+      "id": "85256",
+      "title": "Intro to Pixel Polka",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Dance through the basics of pixel manipulation with a fun introduction to digital graphics.",
+      "room": "Saturn",
+      "speakers": [
+        {
+          "id": "8de6a283-f104-432b-ad08-f775a5fae6a4",
+          "name": "Sally Watts"
+        }
+      ]
+    },
+    {
+      "id": "81852",
+      "title": "Medium Quantum Querying",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Learn the medium techniques of querying databases with a quantum twist.",
+      "room": "Neptune",
+      "speakers": [
+        {
+          "id": "01b15b1c-44e4-4121-b057-ae7eb9c83934",
+          "name": "Rafael Moore"
+        }
+      ]
+    },
+    {
+      "id": "77737",
+      "title": "Advanced WiFi Whirlwind",
+      "level": "Advanced",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Turn the whirlwind of WiFi configurations into advanced networking success stories.",
+      "room": "Mercury",
+      "speakers": [
+        {
+          "id": "62ebafd8-8470-4415-bc16-6949e5c80f5b",
+          "name": "Brandy Neal"
+        }
+      ]
+    },
+    {
+      "id": "77734",
+      "title": "Intro to ASCII Artistry",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Create art with ASCII in a whimsical introduction to basic graphics and design.",
+      "room": "Callisto",
+      "speakers": [
+        {
+          "id": "6ccbc829-6939-4346-8f3e-78d495cd7360",
+          "name": "Minnie Carter"
+        }
+      ]
+    },
+    {
+      "id": "83380",
+      "title": "Medium Dependency Drama",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Resolve medium-level drama caused by dependency issues in software projects with ease.",
+      "room": "Uranus",
+      "speakers": [
+        {
+          "id": "36a25c2a-4204-42f0-9ba8-d7b9c6f67226",
+          "name": "Bowie Graves"
+        }
+      ]
+    },
+    {
+      "id": "134818",
+      "title": "Advanced Semaphore Solutions",
+      "level": "Advanced",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Solve complex synchronization problems using advanced semaphore practices for concurrency control.",
+      "room": "Jupiter",
+      "speakers": [
+        {
+          "id": "46baf7d8-70c6-48c1-b098-995f8c16cebf",
+          "name": "Charles Bennett"
+        }
+      ]
+    },
+    {
+      "id": "85401",
+      "title": "Intro to Spyware Survival",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Learn the basic skills necessary to survive in a world filled with spyware and digital threats.",
+      "room": "Io",
+      "speakers": [
+        {
+          "id": "3884cc4d-8364-4316-9b9a-e16561d87af3",
+          "name": "Sally Martinez"
+        }
+      ]
+    },
+    {
+      "id": "84370",
+      "title": "Medium Encryption Escapades",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Embark on medium-level escapades through the exciting world of encryption and security.",
+      "room": "Earth",
+      "speakers": [
+        {
+          "id": "e5aad250-139d-4a16-9c6e-d3534bbe1fc6",
+          "name": "Lori Coleman"
+        }
+      ]
+    },
+    {
+      "id": "85338",
+      "title": "Advanced Data Doodles",
+      "level": "Advanced",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Transform advanced data processing techniques into a striking gallery of data doodles.",
+      "room": "Titan",
+      "speakers": [
+        {
+          "id": "2118346d-1f8d-410b-af3b-ff0fbcd0f661",
+          "name": "Vicki Gordon"
+        }
+      ]
+    },
+    {
+      "id": "85757",
+      "title": "Intro to VR Vortex",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Step into the initial swirl of the VR vortex and understand the basics of creating virtual realities.",
+      "room": "Ganymede",
+      "speakers": [
+        {
+          "id": "789a1a16-7230-437e-b10e-a5763dc45d89",
+          "name": "River Lewis"
+        }
+      ]
+    },
+    {
+      "id": "81905",
+      "title": "Medium Server Circus",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Join the medium-difficulty circus, balancing server configurations with humor and skill.",
+      "room": "Pluto",
+      "speakers": [
+        {
+          "id": "da1f3c6b-ce55-48df-824c-c6f681f77f8c",
+          "name": "Kyle Nichols"
+        }
+      ]
+    },
+    {
+      "id": "84701",
+      "title": "Advanced Bug Bonfire",
+      "level": "Advanced",
+      "day": "Thursday",
+      "startsAt": "8:45",
+      "description": "Burn your bugs at the stake with advanced strategies that ensure clean and efficient code.",
+      "room": "Venus",
+      "speakers": [
+        {
+          "id": "0294b93f-bac4-4d29-808f-2acaa72d4385",
+          "name": "Keith Garcia"
+        }
+      ]
+    },
+    {
+      "id": "85696",
+      "title": "Intro to Vaporware Visions",
+      "level": "Introductory and overview",
+      "day": "Thursday",
+      "startsAt": "10:00",
+      "description": "Explore the basics of identifying and developing vaporware with amusing insights.",
+      "room": "Europa",
+      "speakers": [
+        {
+          "id": "58e984a0-a08a-47a6-98b0-63744b8f6671",
+          "name": "Wallis Bell"
+        }
+      ]
+    },
+    {
+      "id": "83401",
+      "title": "Medium Cloud Carpentry",
+      "level": "Medium",
+      "day": "Thursday",
+      "startsAt": "10:00",
+      "description": "Build medium-complexity cloud structures and understand their architecture through practical techniques.",
+      "room": "Ganymede",
+      "speakers": [
+        {
+          "id": "8dffae42-4a07-4e05-8352-15b141753bdc",
+          "name": "Tracy Wallace"
+        }
+      ]
+    },
+    {
+      "id": "77744",
+      "title": "Advanced DevOps Dreams",
+      "level": "Advanced",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Advance into the dreamscape of DevOps practices with cutting-edge methodologies and tools.",
+      "room": "Neptune",
+      "speakers": [
+        {
+          "id": "2e2d0824-03f9-428d-ba85-0594558ffa3c",
+          "name": "Wallis Reyes"
+        }
+      ]
+    },
+    {
+      "id": "85347",
+      "title": "Intro to Bitwise Banter",
+      "level": "Introductory and overview",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Engage in playful bitwise banter while learning the beginner basics of binary operations.",
+      "room": "Callisto",
+      "speakers": [
+        {
+          "id": "d4d7850a-526e-4959-aab1-36460081fcf5",
+          "name": "Jesse Hill"
+        }
+      ]
+    },
+    {
+      "id": "85015",
+      "title": "Medium Infinite Loop Illusions",
+      "level": "Medium",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Amaze with medium-level illusions that prevent infinite loops and code snafus.",
+      "room": "Pluto",
+      "speakers": [
+        {
+          "id": "fbcde9d0-ed63-48d5-ba6d-9cff8296fdd2",
+          "name": "Sydney Holland"
+        }
+      ]
+    },
+    {
+      "id": "81734",
+      "title": "Advanced Responsive Riddles",
+      "level": "Advanced",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Solve advanced responsive design riddles with agility for harmonious user experiences.",
+      "room": "Sol",
+      "speakers": [
+        {
+          "id": "a79c25d1-632c-4ae9-aff9-9375a97c0eaf",
+          "name": "Ashley Holt"
+        }
+      ]
+    },
+    {
+      "id": "79879",
+      "title": "Intro to Network Noodles",
+      "level": "Introductory and overview",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Untangle the intro-level network noodles to find simple solutions for connectivity.",
+      "room": "Uranus",
+      "speakers": [
+        {
+          "id": "2e41996e-0ac7-42a6-a8d6-b8fc6a9a410f",
+          "name": "Angela Castillo"
+        }
+      ]
+    },
+    {
+      "id": "77877",
+      "title": "Medium Protocol Parade",
+      "level": "Medium",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Join the parade of medium-level protocols that lead you to successful data communication.",
+      "room": "Venus",
+      "speakers": [
+        {
+          "id": "730a789f-e2a8-483d-91bc-6e794f1b44d5",
+          "name": "Ray Lucas"
+        }
+      ]
+    },
+    {
+      "id": "77769",
+      "title": "Advanced Command Line Odyssey",
+      "level": "Advanced",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Embark on an advanced odyssey into the command line, conquering complex tasks with prowess.",
+      "room": "Titan",
+      "speakers": [
+        {
+          "id": "76842364-2733-4aea-a940-7c81195e5120",
+          "name": "Shae Wallace"
+        }
+      ]
+    },
+    {
+      "id": "85771",
+      "title": "Intro to Software Safari",
+      "level": "Introductory and overview",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Navigate the wild world of software development with an introductory guide to survival.",
+      "room": "Io",
+      "speakers": [
+        {
+          "id": "70df25ba-f2b7-4b82-83a7-cbb15a8bf614",
+          "name": "Sylvia Brown"
+        }
+      ]
+    },
+    {
+      "id": "100073",
+      "title": "Medium Code Cleanliness",
+      "level": "Medium",
+      "day": "Friday",
+      "startsAt": "10:00",
+      "description": "Scrub your code expertly with medium-level clean coding techniques that shine",
+      "room": "Earth",
+      "speakers": [
+        {
+          "id": "d87a8517-8cc1-4867-8461-e496c143ded2",
+          "name": "Dakotah Cox"
+        }
+      ]
+    },
+    {
+      "title": "Advanced Semaphore Ballet",
+      "description": "Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "e7b85db4-3f12-4905-b5b0-62fe98ca6b93"
+    },
+    {
+      "title": "Medium Middleware Minotaur",
+      "description": "Navigate the labyrinth of middleware with medium-difficulty and avoid the dreaded minotaur of bugs.",
+      "level": "Medium",
+      "day": "Wednesday",
+      "id": "caf3c26b-3c8a-4a18-9a3f-84c975c8ec5a"
+    },
+    {
+      "title": "Advanced Semaphore Ballet 2",
+      "description": "Master 2 the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "fda714dd-8f12-404c-96c8-22fcd7a77af2"
+    },
+    {
+      "title": "Very Advanced Semaphore Ballet",
+      "description": "Very Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "afb8101e-13d3-484a-89a1-ac75ff47e73f"
+    },
+    {
+      "title": "Advanced Semaphore Ballet",
+      "description": "Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "17d54594-dd86-4475-a8a1-fd9f0d4429eb"
+    },
+    {
+      "title": "Advanced Semaphore Ballet 2.0",
+      "description": "Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "a207fed3-118c-458f-88e5-e96bd039f36e"
+    },
+    {
+      "title": "Advanced Semaphore Ballet",
+      "description": "Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "",
+      "day": "",
+      "id": "0433adab-9246-435c-871b-570dee16689b"
+    },
+    {
+      "title": "Advanced Nude  Ballet",
+      "description": "Master the nude art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Friday",
+      "id": "aac461d1-e7c4-4339-b827-5a9998a16f30"
+    },
+    {
+      "title": "Advanced Semaphore Ballet",
+      "description": "Master the art of semaphore synchronization in an elegant ballet of complex code.",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "id": "21562c4a-3877-4ec4-9441-6cf4c2e4d2fd"
+    }
+  ]
+}

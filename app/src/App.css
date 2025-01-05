@@ -1,0 +1,270 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.form-control {
+  color: BDFEF2;
+}
+#wrapper {
+  width: 100%;
+  height: 100vh;
+  float: left;
+}
+
+.container {
+  width: 100%;
+  padding: 0;
+}
+.container.with-padding {
+  padding: 2rem;
+}
+
+.conference-element {
+  border: solid 1px white;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: "#0D1424"
+}
+
+.conference-element.about {
+  margin-top: 3rem;
+  font-size: large;
+}
+
+/* SPEAKERS PAGE */
+.speaker-item {
+  height: 300px;
+}
+
+.panel-default {
+  position: relative;
+  height: 100%;
+}
+
+.panel-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.panel-footer h4 {
+  color: #51b5b1;
+  font-weight: bold;
+}
+
+/* SPEAKERS PAGE END */
+
+header {
+  width: 100%;
+  padding: 10px;
+  float: left;
+  background: #212121;
+}
+
+.text {
+  color: #bdfef2;
+  font-size: 32px;
+  font-style: italic;
+  padding-left: 12px;
+}
+.logo img {
+  width: 120px;
+  border-radius: 12px;
+}
+button {
+  border: none;
+  background: none;
+}
+.logo {
+  margin: 0;
+  padding: 0px;
+}
+
+/*----Navbar---Css---*/
+
+nav.navbar {
+  margin-left: 50px;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  float: left;
+  width: 100%;
+}
+
+button.navbar-toggler {
+  display: none;
+}
+ul.navbar-nav {
+  display: block;
+  text-align: right;
+}
+.dvider {
+  height: 90px;
+  border: 1px solid #bdfef2;
+
+  margin: 0px 40px;
+  display: inline-block;
+}
+.sign a {
+  color: #bdfef2;
+  cursor: pointer;
+}
+.sign a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.sign img {
+  display: block;
+}
+.sign {
+  float: right;
+  margin: 30px 0px;
+}
+.navbar-nav > li {
+  display: inline-block;
+}
+
+.navbar-nav > li a {
+  color: #bdfef2;
+  text-decoration: none;
+  display: block;
+  padding: 15px 13px;
+  font-size: 24px;
+  transition: all 0.5s ease;
+}
+
+.navbar-nav > li a:hover {
+  color: #528c81;
+}
+
+.banner {
+  clear: both;
+  position: relative;
+  height: 89%;
+}
+.banner img {
+  position: relative;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow-y: hidden;
+}
+.inner-content-right,
+.inner-content {
+  position: absolute;
+  top: 150px;
+  color: #fff;
+}
+.banner h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 36px;
+}
+.banner span {
+  font-size: 30px;
+}
+.content-right {
+  text-align: center;
+}
+.banner h1 {
+  font-size: 56px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 45px;
+  text-align: left;
+}
+.banner p {
+  font-style: italic;
+  font-size: 18px;
+}
+.banner h1 span {
+  font-size: 36px !important;
+  font-weight: normal;
+}
+.content-right h3 {
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  line-height: 19px;
+}
+.content-right span {
+  font-size: 16px;
+}
+
+.text-center .btn {
+  text-align: center;
+  margin: 10px 0px;
+  background-color: #51b5b1;
+  border-radius: 40px;
+  padding: 10px 40px;
+}
+.content-right.col-md-4 p {
+  font-size: 12px;
+  padding: 0px 104px;
+  font-style: normal;
+}
+.sign-in {
+  padding-right: 20px;
+}
+.sign-in-img {
+  margin-left: 6px;
+}
+
+.btn-oval {
+  background-color: #51b5b1;
+  margin-right: 1%;
+  border-radius: 40px;
+  padding: 10px 20px;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: center;
+}
+.btn-oval.selected {
+  border: 4px solid darkgreen;
+}
+
+.new-session {
+  width: fit-content;
+  font-weight: bold;
+  border: 2px green solid;
+  color: green;
+  font-size: x-large;
+}
+
+
+blockquote {
+  padding-left: 1.25rem;
+  border-left: 0.7rem solid red;
+  margin: 1rem;
+  font-size: x-large;
+}
+blockquote.succ {
+  border-left: 0.7rem solid greenyellow;
+}
+
+.code-area {
+  height: fit-content;
+  padding: 1rem;
+  background: #212121;
+}
+
+.code-area h2 {
+  color: white;
+}
